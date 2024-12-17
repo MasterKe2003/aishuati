@@ -1,3 +1,4 @@
 const JSONList = [
-    { id: "20241217141357", name: '人工智能', describe: '', file: "20241217141357.json" }
+    { id: "1", name: '人工智能', describe: '', file: "1.json" },
+    { id: "2", name: '软件工程', describe: '', file: "2.json" }
 ]
